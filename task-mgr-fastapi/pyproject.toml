@@ -10,4 +10,5 @@ dependencies = [
     "psycopg2-binary==2.9.9",
     "sqlalchemy>=2.0.43",
     "alembic>=1.16.5",
+    "python-dotenv>=1.1.1",
 ]
